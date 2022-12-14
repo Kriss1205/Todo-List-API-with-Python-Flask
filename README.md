@@ -1,6 +1,6 @@
 # This is my 1st time practicing Python Flask
 </br>
-# https://github.com/Kriss1205/Todo-List-API-with-Python-Flask.git
+https://github.com/Kriss1205/Todo-List-API-with-Python-Flask.git
 
 # Todo List API in Python Flask
 
